@@ -94,7 +94,7 @@
     width: 100%;
     height: auto;
     text-align: center;
-    background: url(/deer.png);
+    background: url(deer.png);
     background-size: cover;
     background-repeat: no-repeat;
   }
