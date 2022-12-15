@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -440,6 +441,10 @@
       padding: 1.2rem 4.4rem;
       margin-top: 3rem;
     }
+
+    .scnd-section-header h1 {
+      font-size: 3.8rem;
+    }
   
     .cards-grid {
       grid-template-columns: 1fr;
@@ -499,4 +504,35 @@
     .btn-contactUs {
         margin-right: 3rem;
     }
+
+    .scnd-section-header h1 {
+      font-size: 2.8rem;
+    }
+
+    .scnd-section-header {
+      width: 100%;
+    }
+    .join-contact h2 {
+      font-size: 2.5rem;
+      width: 100%;
+    }
+    .join-contact-btns a {
+      font-size: 1.3rem;
+      padding: 1rem 3rem ;
+    }
+
+    .nav-btns {      
+      font-size: 1.3rem;
+    }
+    .nav-btns a {
+      padding: 0.5rem 1.3rem;
+    }
   }
+
+  /* .nav-btns {
+    font-size: 1.5rem;
+    margin-right: 10rem;
+    margin-top: 1rem;
+    font-weight: 400;
+    margin-bottom: 1rem;
+  } */
